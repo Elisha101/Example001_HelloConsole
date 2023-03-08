@@ -4,3 +4,9 @@ int numberB = new Random().Next(1, 10);
 Console.WriteLine(numberB);
 int result = numberA + numberB;
 Console.WriteLine(result);
+
+
+// int numberA = 31;
+// int numberB = 2;
+// int result = numberA + numberB;
+// Console.WriteLine(result);
